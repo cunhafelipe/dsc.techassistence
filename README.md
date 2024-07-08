@@ -1,6 +1,6 @@
 ## 📱 Landing Page para Loja DSC;TECHASSISTENCE
 
-Este projeto é uma landing page moderna e elegante para uma loja de conserto de celulares, construída com React, Tailwind CSS e Next.js. A página destaca vários serviços de reparo e visa proporcionar uma excelente experiência ao usuário para clientes que procuram assistência técnica para seus dispositivos móveis.
+Este projeto é uma landing page para uma loja de conserto de celulares, construída com React, Tailwind CSS e Next.js. A página destaca serviços de reparo e visa proporcionar uma excelente experiência ao usuário para clientes que procuram assistência técnica para seus dispositivos móveis.
 
 ## 🚀 Tecnologias Utilizadas
 React: Para construção de interfaces de usuário interativas.
@@ -10,7 +10,6 @@ Next.js: Para renderização no lado do servidor e desempenho otimizado.
 ## ✨ Funcionalidades
 Destaque de Serviços: Exibição dos diferentes serviços de reparo oferecidos pela loja.
 Design Responsivo: Garante uma ótima experiência em todos os dispositivos, de celulares a desktops.
-Tempos de Carregamento Rápidos: Otimizado para desempenho, proporcionando uma experiência suave ao usuário.
 
 ## 🔧 Configuração e Instalação
 
