@@ -35,7 +35,7 @@ export default function Contact() {
                 <h3 className="text-white text-lg">Instagram</h3>
               </div>
               <a
-                href="https://wa.me/5511943305197"
+                href="https://www.instagram.com/dsc.techassistence/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2 rounded-3xl text-green-botton underline"
