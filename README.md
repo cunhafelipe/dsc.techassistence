@@ -30,11 +30,4 @@ npm install
 npm run dev
 ```
 
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-
 Sinta-se à vontade para explorar, modificar e contribuir para este projeto. Agradecemos qualquer feedback ou sugestão!
